@@ -22,7 +22,7 @@ for model in model_list:
 def generate_questions(model_name, text):
     response = palm.generate_text(
         model=model_name,
-        prompt=f"Generate questions from the following text:\n\n{text}\n\nQuestions:",
+        prompt=f"Generate generate follow-up questions which are intriguing and thought-provoking from the provided context text:\n\n{text}\n\nQuestions:",
         max_output_tokens=150
     )
 
