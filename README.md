@@ -18,12 +18,15 @@ Inquisitive is a powerful AI-driven application designed to generate questions f
 
 #### Project Screenshots
 1. **Home Page**
+   
    ![Home Page](https://github.com/user-attachments/assets/1f4eeac0-7f2d-4e28-8a78-dc2e620bb0bb)
 
 2. **Generated Questions**
+   
    ![Generated Questions](https://github.com/user-attachments/assets/3bb0c0ba-a0b1-4c7c-882c-4a49a32ea03d)
 
 3. **Generated Questions**
+   
    ![Home Page Ex 2](https://github.com/user-attachments/assets/0864bf17-b615-422a-9378-600b53dd695e)
 
 
